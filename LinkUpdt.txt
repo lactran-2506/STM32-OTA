@@ -1,5 +1,5 @@
 {
-  "link": "https://raw.githubusercontent.com/GleissonAlmeida/STM32-OTA/main/build/blink1.bin",  
+  "link": "https://github.com/lactran-2506/STM32-OTA/blob/main/build/Blink412.bin",  
   "Mandatory": false,
   "sw" :3.0
   }
