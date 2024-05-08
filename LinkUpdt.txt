@@ -1,5 +1,5 @@
 {
-  "link": "https://github.com/lactran-2506/STM32-OTA/blob/main/build/test.bin",  
+  "link": "https://github.com/lactran-2506/STM32-OTA/blob/main/build/blink_5.bin",  
   "Mandatory": false,
   "sw" :3.0
   }
